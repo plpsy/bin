@@ -1,0 +1,5 @@
+file_name  = ../../../../board-support/prebuilt-images/u-boot-spi-k2hk-evm.gph
+start_addr = 0
+
+
+

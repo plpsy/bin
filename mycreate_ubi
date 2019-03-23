@@ -1,0 +1,3 @@
+./create-ubifs.sh ../filesystem/base-system/ -o cs-rootfs -v k2hk-evm-rootfs
+
+./create-ubifs.sh ../filesystem/server-system/ -o cs-rootfs -v k2hk-evm-rootfs

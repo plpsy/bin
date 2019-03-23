@@ -1,0 +1,6 @@
+file_name  = ../../../../filesystem/tisdk-server-rootfs-image-k2hk-evm.ubi
+start_addr = 1572864
+rbl_ecc    = 0
+
+
+

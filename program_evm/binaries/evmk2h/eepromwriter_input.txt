@@ -1,0 +1,8 @@
+file_name  = eeprom51.bin
+bus_addr   = 0x51
+start_addr = 0
+swap_data  = 0
+
+
+
+
